@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //main code
         //Create new feature_1
+        //Super NEW Feature 2
     }
 }
