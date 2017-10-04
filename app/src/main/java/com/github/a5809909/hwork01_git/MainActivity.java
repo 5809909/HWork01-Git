@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //main code
         //Create new feature_1
+        //Create new feature 2
         //Super NEW Feature 2
         //After Stash text
         //After Stash text
