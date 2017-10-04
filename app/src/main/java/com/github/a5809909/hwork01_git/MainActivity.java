@@ -16,8 +16,10 @@ public class MainActivity extends AppCompatActivity {
         //After Stash text
         //After Stash text
         //Stash text
-        
-        
+        // before STASH2
+
+
+
         // NEW STASH TEXT FROM REMOTE GIT
         // NEW STASH TEXT FROM REMOTE GIT
     }
