@@ -12,5 +12,10 @@ public class MainActivity extends AppCompatActivity {
         //main code
         //Create new feature_1
         //Super NEW Feature 2
+        //After Stash text
+        //After Stash text
+        //After Stash text
+        //Stash text
+
     }
 }
