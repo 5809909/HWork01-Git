@@ -22,5 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         // NEW STASH TEXT FROM REMOTE GIT
         // NEW STASH TEXT FROM REMOTE GIT
+
+        System.out.println("New feature_3 detected!");
     }
 }
