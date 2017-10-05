@@ -29,5 +29,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d(LOG, "onCreate is called");
 
         System.out.println("New feature_3 detected!");
+        //add TAG number 1
     }
 }
