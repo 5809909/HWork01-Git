@@ -2,8 +2,11 @@ package com.github.a5809909.hwork01_git;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
+
+    public static final String LOG = "MainActivity"; ;
 
     @Override
     protected void onCreate(final Bundle savedInstanceState) {
@@ -23,6 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         // NEW STASH TEXT FROM REMOTE GIT
         // NEW STASH TEXT FROM REMOTE GIT
+        Log.d(LOG, "onCreate is called");
 
         System.out.println("New feature_3 detected!");
     }
